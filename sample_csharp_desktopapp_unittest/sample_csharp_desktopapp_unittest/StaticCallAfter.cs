@@ -11,7 +11,7 @@ namespace sample_csharp_desktopapp_unittest
         int Func1();
     }
 
-    class StaticCallAfter
+    public class StaticCallAfter
     {
         private ILogic1 _logic1;
 
