@@ -1,0 +1,2 @@
+# sample_csharp_desktopapp_unittest
+UnitTestの勉強会資料用サンプルコード
